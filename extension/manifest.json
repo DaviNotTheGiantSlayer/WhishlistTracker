@@ -1,0 +1,16 @@
+{
+    "name": "WhishlistTracker",
+    "description": "Extensão para indicar quais itens de uma promoção estão na sua whishlist",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "index.html"
+    },
+    "icons": {
+    "16": "icons/iconGreen16.jpg",
+    "32": "icons/iconGreen32.jpg",
+    "48": "icons/iconGreen48.jpg",
+    "128": "icons/iconGreen128.jpg"
+  }
+}
